@@ -1,1 +1,1 @@
-#N-queen
+#N-queen solution
